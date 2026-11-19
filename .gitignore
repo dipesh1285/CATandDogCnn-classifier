@@ -1,0 +1,17 @@
+# Generated augmented training images (rebuilt by "Image Generator New(Binary).ipynb")
+aug/
+
+# Image attribution list (kept locally only)
+data_sources.txt
+
+# Trained model (rebuilt by "New Fit(Binary).ipynb")
+model_trained_data.h5
+
+# Local notes
+PROJECT_CONTEXT.md
+
+# Environment / tooling
+.vscode/
+.venv/
+.ipynb_checkpoints/
+__pycache__/
